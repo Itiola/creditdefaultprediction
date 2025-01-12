@@ -1,4 +1,4 @@
-import streamlit as st
+import streamlitapp as st
 import numpy as np
 import pickle
 
